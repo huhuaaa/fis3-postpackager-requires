@@ -1,6 +1,6 @@
 {
   "name": "fis3-postpackager-requires",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "fis3 requires module",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,6 @@
     "url": "https://github.com/huhuaaa/fis3-postpackager-requires/issues"
   },
   "homepage": "https://github.com/huhuaaa/fis3-postpackager-requiress",
-  "_id": "fis3-postpackager-requires@0.0.1",
+  "_id": "fis3-postpackager-requires@1.0.0",
   "_from": "fis3-postpackager-requires@"
 }
