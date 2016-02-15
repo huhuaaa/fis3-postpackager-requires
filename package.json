@@ -8,15 +8,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jaywcjlove/store.js.git"
+    "url": "https://github.com/huhuaaa/fis3-postpackager-requires.git"
   },
   "keywords": [
-    "store.js"
+    "fis3",
+    "postpackager",
+    "requires"
   ],
-  "author": " <wowohoo@qq.co> (kenny.wang <wowohoo@qq.co>)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/jaywcjlove/store.js/issues"
+  "email": "1311775708@qq.com",
+  "author": {
+    "name": "qk"
   },
-  "homepage": "https://github.com/jaywcjlove/store.js"
+  "readmeFilename": "README.md",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/huhuaaa/fis3-postpackager-requires/issues"
+  },
+  "homepage": "https://github.com/huhuaaa/fis3-postpackager-requiress",
+  "_id": "fis3-postpackager-requires@0.0.1",
+  "_from": "fis3-postpackager-requires@"
 }
