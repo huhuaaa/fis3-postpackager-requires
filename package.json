@@ -1,0 +1,22 @@
+{
+  "name": "fis3-postpackager-requires",
+  "version": "0.0.1",
+  "description": "fis3 requires module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaywcjlove/store.js.git"
+  },
+  "keywords": [
+    "store.js"
+  ],
+  "author": " <wowohoo@qq.co> (kenny.wang <wowohoo@qq.co>)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaywcjlove/store.js/issues"
+  },
+  "homepage": "https://github.com/jaywcjlove/store.js"
+}
