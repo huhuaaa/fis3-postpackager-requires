@@ -6,10 +6,10 @@
 
 	npm install -g fis3-postpackager-requires
 
-	npm install -g fis-postpackager-autoload
+	npm install -g fis3-postpackager-loadrequires
 
 ### 集合fis-postpackager-autoload使用	
 
 	fis.match('::package', {
-	    postpackager: [fis.plugin('requires'), fis.plugin('autoload')]
+	    postpackager: [fis.plugin('requires'), fis.plugin('loadrequires')]
 	});
