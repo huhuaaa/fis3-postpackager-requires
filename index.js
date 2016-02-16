@@ -1,6 +1,5 @@
 /**
  * file: index.js
- * ver: 0.0.1
  * auth: qk@detu.com
  * update: 2016-01-27
  */
